@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    color: cadetblue;
+}
+.container p{
+    margin-top: 10px;
+}
+.container input{
+    text-align: center;
+    width: 70px;
+    margin: 10px 0;
+}
+.container button{
+    padding: 10px 20px;
+    border-radius: 12px;
+    color: white;
+    background-color: cadetblue;
+}

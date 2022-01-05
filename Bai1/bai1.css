@@ -1,0 +1,18 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: cadetblue;
+}
+.container input{
+    text-align: center;
+    width: 70px;
+}
+.container button{
+    padding: 10px 20px;
+    border-radius: 12px;
+    color: white;
+    background-color: cadetblue;
+}
